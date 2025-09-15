@@ -29,3 +29,10 @@ To determine the eligibility for granting home loans by analysing applicant info
 4. **Insights**
    - Analysed that a good credit history resulted in 79.5% of applications getting approved for home loans.
    - An individual with a poor or low credit score and history has a staggering 92% chance that their loan will get rejected
+  
+## 📊 Visualizations
+The analysis includes:  
+- Loan status distribution  
+- Applicant income vs loan amount  
+- Impact of credit history on approval  
+- Correlation heatmap of numerical features
